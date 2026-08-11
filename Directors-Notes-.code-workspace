@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../creative-process-software-bootcamp-aug26"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "creative-process-software-bootcamp-aug26"
+	}
+}
